@@ -1,4 +1,4 @@
-Nome: João Paulo F. Brito   # 21456059
+Nome: João Paulo F. Brito
 
 Relatório do Projeto Final – Tópicos em Recuperação de Informação
 
